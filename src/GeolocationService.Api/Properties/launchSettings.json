@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "GeolocationService.Api": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:59844;http://localhost:59845"
+    }
+  }
+}
